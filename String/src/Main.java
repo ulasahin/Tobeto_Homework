@@ -1,6 +1,9 @@
 public class Main {
     public static void main(String[] args) {
         String message = "Bugün hava çok güzel.";
+        int sayi = 10;
+        
+        System.out.println(sayi);
 
         System.out.println(message);
         System.out.println("Eleman sayısı : " + message.length());
